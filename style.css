@@ -1,0 +1,93 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.box{
+    background-color: aqua;
+    height: 700px;
+    width: 500px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.ptag{
+    text-align: center;
+    font-size: 40px;
+    padding: 40px;
+    
+}
+
+.fullname{
+    width: 85%;
+    height: 40px;
+    margin: 10px;
+    margin-left: 35px;
+    border-radius: 5px;
+    border: none;
+}
+
+.email{
+    width: 85%;
+    height: 40px;
+    margin: 10px;
+    margin-left: 35px;
+    border-radius: 5px;
+    border: none;
+}
+
+.password{
+    width: 85%;
+    height: 40px;
+    margin: 10px;
+    margin-left: 35px;
+    border-radius: 5px;
+    border: none;
+}
+
+.country{
+    width: 85%;
+    height: 40px;
+    margin: 10px;
+    margin-left: 35px;
+    border-radius: 5px;
+    border: none;
+}
+
+.gender{
+    width: 85%;
+    height: 40px;
+    margin: 10px;
+    margin-left: 35px;
+    border-radius: 5px;
+    border: none;
+}
+
+.age{
+    width: 85%;
+    height: 40px;
+    margin: 10px;
+    margin-left: 35px;
+    border-radius: 5px;
+    border: none;
+    
+}
+
+.button{
+    background-color: rgb(200, 13, 217);
+    width: 85%;
+    height: 40px;
+    margin: 10px;
+    margin-left: 35px;
+    border-radius: 5px;
+    border: none;
+}
+
+.condition{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 35px;
+    border-radius: 5px;
+    border: none;
+}
