@@ -4,7 +4,7 @@
 }
 
 .box{
-    background-color: aqua;
+    background-color: rgb(4, 209, 250);
     height: 700px;
     width: 500px;
     border-radius: 5px;
@@ -75,7 +75,7 @@
 }
 
 .button{
-    background-color: rgb(200, 13, 217);
+    background-color: rgb(82, 138, 140);
     width: 85%;
     height: 40px;
     margin: 10px;
@@ -83,6 +83,7 @@
     border-radius: 5px;
     border: none;
     font-size: 21px;
+    color: aliceblue;
 }
 
 .condition{
